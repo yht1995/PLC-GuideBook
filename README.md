@@ -3,7 +3,6 @@
 
 # 内容
 主要内容包括
-- PLC简介
 - SIEMENS SIMATIC S7-300 PLC 简介
 - STEP7 软件使用
 - 梯形图
