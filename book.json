@@ -1,0 +1,6 @@
+{
+    "plugins": ["sectionx"],
+    "variables": {
+    "ans": "true"
+    }
+}

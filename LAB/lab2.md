@@ -5,8 +5,13 @@
 
 ![LAB2](image/lab2-1.png)
 
-## 符号表
+<!--sec data-title="符号表" data-id="symbol" data-show=true ces-->
 ![符号表](image/lab2-2.png)
+{% if book.ans == "true" %}
+<button class="section" target="ans" show="显示参考梯形图" hide="隐藏参考梯形图"></button>
+<!--endsec-->
 
-## 参考梯形图
+<!--sec data-title="参考梯形图" data-id="ans" data-show=false ces-->
 ![参考梯形图](image/lab2-3.png)
+<!--endsec-->
+{% endif %}
