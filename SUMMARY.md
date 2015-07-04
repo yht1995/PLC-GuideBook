@@ -1,4 +1,4 @@
-* [简介](README.md)
+* [PLC入门知识和实验指南](README.md)
 
 * [SIMATIC S7-300 PLC 简介](PLC/README.md)
 	- [PLC 简介](PLC/PLC简介.md)
@@ -11,9 +11,19 @@
 	- [STEP 7概述](STEP 7/STEP 7概述.md)
 	- [设计流程](STEP 7/设计流程.md)
 	- [安装](STEP 7/安装.md)
+	- [编程语言](STEP 7/编程语言.md)
 	- [设计程序结构的基本原理](STEP 7/设计程序结构的基本原理.md)
 	- [地址和符号](STEP 7/地址和符号.md)
 	- [硬件组态配置](STEP 7/硬件组态配置.md)
 
 * [梯形图](LAD/README.md)
-	- [梯形图的结构](image/梯形图的结构.md)
+	- [梯形图的结构](LAD/梯形图的结构.md)
+	- [位逻辑指令](LAD/位逻辑指令.md)
+	- [比较指令](LAD/比较指令.md)
+	- [计数器指令](LAD/计数器指令.md)
+
+* [实验指南](LAB/README.md)
+	- [LAB 1 硬件安装，配置STEP 7 工程](LAB/lab1.md)
+	- [LAB 2 控制传送带](LAB/lab2.md)
+	- [LAB 3 检测传送带方向](LAB/lab3.md)
+	- [LAB 4 加热烘炉](LAB/lab4.md)
