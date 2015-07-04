@@ -7,9 +7,13 @@
 	- [安装](PLC/安装.md)
 	- [寻址](PLC/寻址.md)
 
-* [STEP 7 软件](STEP 7/README.md)
+* [使用STEP 7编程](STEP 7/README.md)
 	- [STEP 7概述](STEP 7/STEP 7概述.md)
 	- [设计流程](STEP 7/设计流程.md)
 	- [安装](STEP 7/安装.md)
+	- [设计程序结构的基本原理](STEP 7/设计程序结构的基本原理.md)
+	- [地址和符号](STEP 7/地址和符号.md)
+	- [硬件组态配置](STEP 7/硬件组态配置.md)
 
 * [梯形图](LAD/README.md)
+	- [梯形图的结构](image/梯形图的结构.md)
