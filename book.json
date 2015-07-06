@@ -1,5 +1,5 @@
 {
-    "plugins": ["sectionx"],
+    "plugins": ["sectionx","toggle-chapters"],
     "variables": {
     "ans": "true"
     }
